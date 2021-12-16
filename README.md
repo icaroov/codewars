@@ -1,7 +1,10 @@
 <div align="center">
+<p>
   <img src="https://docs.codewars.com/logo.svg" width="250px" alt="Codewars logo">
-
+</p>
+<p>
   <img alt="Language" src="https://img.shields.io/github/languages/top/icaroov/codewars?color=%23bb432c">
+  </p>
 </div>
 
 ## What is Codewars
