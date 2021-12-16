@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "description": "My solutions to CodeWars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:icaroov/codewars.git",
+  "author": "Icaro Oliveira <icarovinici@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^17.0.0",
+    "babel-jest": "^27.4.5",
+    "jest": "^27.4.5",
+    "typescript": "^4.5.4"
+  }
+}
